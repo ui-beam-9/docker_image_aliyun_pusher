@@ -1,3 +1,4 @@
-xhofe/alist:latest
-algolia/docsearch-scraper:latest
-# 支持指定架构: --platform=linux/arm64 xiaoyaliu/alist (在镜像前面加上)
+xhofe/alist
+algolia/docsearch-scraper
+xiaoyaliu/alist
+# 支持指定架构: --platform=linux/arm64 (在镜像前面加上)
