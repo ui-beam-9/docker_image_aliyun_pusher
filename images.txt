@@ -1,4 +1,2 @@
-xhofe/alist
-algolia/docsearch-scraper
-xiaoyaliu/alist
-# 支持指定架构: --platform=linux/arm64 (在镜像前面加上)
+sameersbn/gitlab:18.5.0
+sameersbn/gitlab:latest
