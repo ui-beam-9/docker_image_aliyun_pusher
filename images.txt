@@ -18,4 +18,3 @@ fredliang/derper:latest
 jxxghp/moviepilot-v2:latest
 alexta69/metube:latest
 szabis/iventoy:latest
-      
