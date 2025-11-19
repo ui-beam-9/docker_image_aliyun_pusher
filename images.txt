@@ -6,7 +6,7 @@ phpmyadmin:5.2.3
 mongo:7.0.25
 redis:8.2.2
 1panel/openresty:1.27.1.2-2-3-focal
-python-wecomchan:latest
+#python-wecomchan:latest
 estrellaxd/auto_bangumi:latest
 jeessy/ddns-go:latest
 intemd/meting-api:latest
